@@ -1,0 +1,1 @@
+This is a file to test how to push new folders to Git.
